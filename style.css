@@ -1,0 +1,50 @@
+/* UNIVERSAL SELECTOR */
+ /* *{
+    color: red;
+} */
+
+/* single Type selector */
+ /* h2{
+    color: red;
+ } */
+
+ /* multiple Type selector */
+
+ /* h1,h2,div{
+    color: blue;
+ } */
+
+ /* Class selector */
+
+ /* .main{
+    color: red;
+ } */
+
+ /* id selector */
+
+/* #myprag{
+    color: red;
+} */
+
+/* CHILD SELECTOR*/
+
+/* span > p{
+    color: red;
+} */
+ 
+/* DESCANDANT SELECTOR */
+
+/* div p{
+    color: red;
+} */
+
+/* ADJACENT SIBLING SELECTOR */
+
+/* h1+p{
+    color: red;
+} */
+
+/* GENRAL SIBLING SELECTOR */
+H1~P{
+    color: red;
+}
